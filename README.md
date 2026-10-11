@@ -1,4 +1,5 @@
 # Iris ML Prediction API on Kubernetes
+![CI](https://github.com/sujitha417/iris-ml-kubernetes/actions/workflows/ci.yml/badge.svg)
 
 A Flask API serving a RandomForest Iris classifier, containerized with Docker and deployed on a local Kubernetes cluster (minikube) with 2 replicas.
 
